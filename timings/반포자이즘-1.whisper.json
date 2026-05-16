@@ -1,0 +1,1569 @@
+{
+  "text": " 반포의 빛이 나를 부르네. 차이의 품에 안기고 싶어. 강남의 별들 아래 꿈꾼의 높은 숨이 속에 날 세우고 싶어. 반포야 반포야 너는 나의 별 자야 자야 나를 안아줘 삼각지의 왕관 내가 쓸래 가끔 지도 나를 반겨줄래 한 번 더 해봅시다 강바람 속에 흩날리는 꿈 부동산 지도 속 반짝이는 점 핫 끝치는 뒤로 산 끝지로 달려 자의 문턱 넘고 싶어 반포야 반포야 너는 나의 별 자야 자야 나를 안아줘 삼각지의 왕관 내가 쓸래 하꿈치도 나를 반겨줄래 승리의 숫자에 내 맘을 춤춰 반포의 꿈이 나를 깨우네 자의의 이름을 가슴에 새기며 내 미래를 이곳에 맡기고 싶어 반포야 반포야 너는 나의 별 자야 자야 나를 안아줘 삼각지의 왕관 내가 쓸래 하꿈치도 나를 반겨줄래iciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciici 감사합니다.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 14.180000000000001,
+      "end": 29.28,
+      "text": " 반포의 빛이 나를 부르네. 차이의 품에 안기고 싶어. 강남의 별들 아래 꿈꾼의 높은 숨이 속에 날 세우고 싶어.",
+      "tokens": [
+        50365,
+        16396,
+        30600,
+        2785,
+        5005,
+        249,
+        1129,
+        12623,
+        2429,
+        10201,
+        22702,
+        5626,
+        13,
+        15391,
+        1129,
+        2785,
+        21442,
+        230,
+        1517,
+        4811,
+        2401,
+        1313,
+        10785,
+        3103,
+        13,
+        14623,
+        37315,
+        2785,
+        2818,
+        10801,
+        9200,
+        4241,
+        43487,
+        23536,
+        120,
+        2785,
+        25015,
+        2124,
+        33354,
+        1129,
+        18663,
+        1517,
+        16316,
+        11605,
+        7812,
+        1313,
+        10785,
+        3103,
+        13,
+        51862
+      ],
+      "temperature": 0.6,
+      "avg_logprob": -0.22293413602388823,
+      "compression_ratio": 1.140625,
+      "no_speech_prob": 8.564295973789715e-12,
+      "words": [
+        {
+          "word": " 반포의",
+          "start": 14.180000000000001,
+          "end": 15.58,
+          "probability": 0.65234375
+        },
+        {
+          "word": " 빛이",
+          "start": 15.58,
+          "end": 15.98,
+          "probability": 0.982421875
+        },
+        {
+          "word": " 나를",
+          "start": 15.98,
+          "end": 16.48,
+          "probability": 0.99609375
+        },
+        {
+          "word": " 부르네.",
+          "start": 16.48,
+          "end": 17.72,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " 차이의",
+          "start": 17.72,
+          "end": 19.12,
+          "probability": 0.80810546875
+        },
+        {
+          "word": " 품에",
+          "start": 19.12,
+          "end": 19.62,
+          "probability": 0.998046875
+        },
+        {
+          "word": " 안기고",
+          "start": 19.62,
+          "end": 20.3,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " 싶어.",
+          "start": 20.3,
+          "end": 21.32,
+          "probability": 0.9970703125
+        },
+        {
+          "word": " 강남의",
+          "start": 21.68,
+          "end": 22.76,
+          "probability": 0.978515625
+        },
+        {
+          "word": " 별들",
+          "start": 22.76,
+          "end": 23.16,
+          "probability": 0.99169921875
+        },
+        {
+          "word": " 아래",
+          "start": 23.16,
+          "end": 23.6,
+          "probability": 0.93603515625
+        },
+        {
+          "word": " 꿈꾼의",
+          "start": 23.6,
+          "end": 24.7,
+          "probability": 0.83837890625
+        },
+        {
+          "word": " 높은",
+          "start": 24.7,
+          "end": 25.42,
+          "probability": 0.9609375
+        },
+        {
+          "word": " 숨이",
+          "start": 25.42,
+          "end": 26.02,
+          "probability": 0.5595703125
+        },
+        {
+          "word": " 속에",
+          "start": 26.02,
+          "end": 26.74,
+          "probability": 0.9931640625
+        },
+        {
+          "word": " 날",
+          "start": 26.74,
+          "end": 27.16,
+          "probability": 0.630859375
+        },
+        {
+          "word": " 세우고",
+          "start": 27.16,
+          "end": 28.32,
+          "probability": 0.99169921875
+        },
+        {
+          "word": " 싶어.",
+          "start": 28.32,
+          "end": 29.28,
+          "probability": 0.998046875
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "seek": 2928,
+      "start": 32.5,
+      "end": 36.56,
+      "text": " 반포야 반포야 너는 나의 별",
+      "tokens": [
+        50365,
+        16396,
+        30600,
+        4248,
+        16396,
+        30600,
+        4248,
+        12963,
+        1098,
+        3948,
+        2785,
+        47442,
+        50731
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3146629333496094,
+      "compression_ratio": 1.2035398230088497,
+      "no_speech_prob": 2.810809397735259e-11,
+      "words": [
+        {
+          "word": " 반포야",
+          "start": 32.5,
+          "end": 33.9,
+          "probability": 0.72265625
+        },
+        {
+          "word": " 반포야",
+          "start": 33.9,
+          "end": 34.7,
+          "probability": 0.96337890625
+        },
+        {
+          "word": " 너는",
+          "start": 34.7,
+          "end": 35.24,
+          "probability": 0.98046875
+        },
+        {
+          "word": " 나의",
+          "start": 35.24,
+          "end": 35.86,
+          "probability": 0.9931640625
+        },
+        {
+          "word": " 별",
+          "start": 35.86,
+          "end": 36.56,
+          "probability": 0.9970703125
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "seek": 2928,
+      "start": 36.56,
+      "end": 40.0,
+      "text": " 자야 자야 나를 안아줘",
+      "tokens": [
+        50731,
+        5650,
+        4248,
+        5650,
+        4248,
+        12623,
+        2429,
+        4811,
+        2230,
+        30117,
+        50910
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3146629333496094,
+      "compression_ratio": 1.2035398230088497,
+      "no_speech_prob": 2.810809397735259e-11,
+      "words": [
+        {
+          "word": " 자야",
+          "start": 36.56,
+          "end": 37.56,
+          "probability": 0.89404296875
+        },
+        {
+          "word": " 자야",
+          "start": 37.56,
+          "end": 38.08,
+          "probability": 0.64404296875
+        },
+        {
+          "word": " 나를",
+          "start": 38.08,
+          "end": 38.94,
+          "probability": 0.97021484375
+        },
+        {
+          "word": " 안아줘",
+          "start": 38.94,
+          "end": 40.0,
+          "probability": 0.9921875
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "seek": 2928,
+      "start": 40.0,
+      "end": 43.98,
+      "text": " 삼각지의 왕관 내가 쓸래",
+      "tokens": [
+        50910,
+        32391,
+        7387,
+        1831,
+        2785,
+        4186,
+        243,
+        18472,
+        10474,
+        11647,
+        1397,
+        4241,
+        51102
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3146629333496094,
+      "compression_ratio": 1.2035398230088497,
+      "no_speech_prob": 2.810809397735259e-11,
+      "words": [
+        {
+          "word": " 삼각지의",
+          "start": 40.0,
+          "end": 41.54,
+          "probability": 0.7021484375
+        },
+        {
+          "word": " 왕관",
+          "start": 41.54,
+          "end": 42.2,
+          "probability": 0.76953125
+        },
+        {
+          "word": " 내가",
+          "start": 42.2,
+          "end": 42.76,
+          "probability": 0.95947265625
+        },
+        {
+          "word": " 쓸래",
+          "start": 42.76,
+          "end": 43.98,
+          "probability": 0.9921875
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "seek": 2928,
+      "start": 43.98,
+      "end": 48.84,
+      "text": " 가끔 지도 나를 반겨줄래",
+      "tokens": [
+        51102,
+        10583,
+        30895,
+        12205,
+        1838,
+        12623,
+        2429,
+        16396,
+        19591,
+        6756,
+        2703,
+        4241,
+        51365
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.3146629333496094,
+      "compression_ratio": 1.2035398230088497,
+      "no_speech_prob": 2.810809397735259e-11,
+      "words": [
+        {
+          "word": " 가끔",
+          "start": 43.98,
+          "end": 44.66,
+          "probability": 0.69677734375
+        },
+        {
+          "word": " 지도",
+          "start": 44.66,
+          "end": 45.1,
+          "probability": 0.7607421875
+        },
+        {
+          "word": " 나를",
+          "start": 45.1,
+          "end": 45.82,
+          "probability": 0.998046875
+        },
+        {
+          "word": " 반겨줄래",
+          "start": 45.82,
+          "end": 48.84,
+          "probability": 0.962890625
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "seek": 5928,
+      "start": 64.38,
+      "end": 65.62,
+      "text": " 한 번 더 해봅시다",
+      "tokens": [
+        50365,
+        4815,
+        10212,
+        6990,
+        11134,
+        112,
+        227,
+        33582,
+        50665
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.49534820556640624,
+      "compression_ratio": 1.275,
+      "no_speech_prob": 7.068309045704657e-12,
+      "words": [
+        {
+          "word": " 한",
+          "start": 64.38,
+          "end": 65.62,
+          "probability": 0.03302001953125
+        },
+        {
+          "word": " 번",
+          "start": 65.62,
+          "end": 65.62,
+          "probability": 0.09979248046875
+        },
+        {
+          "word": " 더",
+          "start": 65.62,
+          "end": 65.62,
+          "probability": 0.38134765625
+        },
+        {
+          "word": " 해봅시다",
+          "start": 65.62,
+          "end": 65.62,
+          "probability": 0.440185546875
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "seek": 5928,
+      "start": 65.62,
+      "end": 68.5,
+      "text": " 강바람 속에 흩날리는 꿈",
+      "tokens": [
+        50665,
+        14623,
+        8672,
+        3261,
+        22855,
+        18663,
+        1517,
+        14473,
+        102,
+        8580,
+        4673,
+        20896,
+        43487,
+        50845
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.49534820556640624,
+      "compression_ratio": 1.275,
+      "no_speech_prob": 7.068309045704657e-12,
+      "words": [
+        {
+          "word": " 강바람",
+          "start": 65.62,
+          "end": 66.14,
+          "probability": 0.6025390625
+        },
+        {
+          "word": " 속에",
+          "start": 66.14,
+          "end": 66.66,
+          "probability": 0.91796875
+        },
+        {
+          "word": " 흩날리는",
+          "start": 66.66,
+          "end": 68.08,
+          "probability": 0.97802734375
+        },
+        {
+          "word": " 꿈",
+          "start": 68.08,
+          "end": 68.5,
+          "probability": 0.9970703125
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "seek": 5928,
+      "start": 68.5,
+      "end": 72.06,
+      "text": " 부동산 지도 속 반짝이는 점",
+      "tokens": [
+        50845,
+        10201,
+        8309,
+        16551,
+        12205,
+        1838,
+        18663,
+        16396,
+        28624,
+        20813,
+        20060,
+        51005
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.49534820556640624,
+      "compression_ratio": 1.275,
+      "no_speech_prob": 7.068309045704657e-12,
+      "words": [
+        {
+          "word": " 부동산",
+          "start": 68.5,
+          "end": 69.76,
+          "probability": 0.98486328125
+        },
+        {
+          "word": " 지도",
+          "start": 69.76,
+          "end": 70.14,
+          "probability": 0.97021484375
+        },
+        {
+          "word": " 속",
+          "start": 70.14,
+          "end": 70.48,
+          "probability": 0.97802734375
+        },
+        {
+          "word": " 반짝이는",
+          "start": 70.48,
+          "end": 71.6,
+          "probability": 0.998046875
+        },
+        {
+          "word": " 점",
+          "start": 71.6,
+          "end": 72.06,
+          "probability": 0.990234375
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "seek": 5928,
+      "start": 72.06,
+      "end": 75.54,
+      "text": " 핫 끝치는 뒤로 산 끝지로 달려",
+      "tokens": [
+        51005,
+        1362,
+        104,
+        13932,
+        47255,
+        14749,
+        38214,
+        29589,
+        13932,
+        1831,
+        12888,
+        20738,
+        5743,
+        51180
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.49534820556640624,
+      "compression_ratio": 1.275,
+      "no_speech_prob": 7.068309045704657e-12,
+      "words": [
+        {
+          "word": " 핫",
+          "start": 72.06,
+          "end": 72.48,
+          "probability": 0.60546875
+        },
+        {
+          "word": " 끝치는",
+          "start": 72.48,
+          "end": 73.06,
+          "probability": 0.310546875
+        },
+        {
+          "word": " 뒤로",
+          "start": 73.06,
+          "end": 73.68,
+          "probability": 0.9990234375
+        },
+        {
+          "word": " 산",
+          "start": 73.68,
+          "end": 74.2,
+          "probability": 0.6689453125
+        },
+        {
+          "word": " 끝지로",
+          "start": 74.2,
+          "end": 74.9,
+          "probability": 0.6669921875
+        },
+        {
+          "word": " 달려",
+          "start": 74.9,
+          "end": 75.54,
+          "probability": 0.9970703125
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "seek": 5928,
+      "start": 75.54,
+      "end": 79.66,
+      "text": " 자의 문턱 넘고 싶어",
+      "tokens": [
+        51180,
+        5650,
+        2785,
+        13086,
+        6826,
+        109,
+        20237,
+        1313,
+        10785,
+        3103,
+        51565
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.49534820556640624,
+      "compression_ratio": 1.275,
+      "no_speech_prob": 7.068309045704657e-12,
+      "words": [
+        {
+          "word": " 자의",
+          "start": 75.54,
+          "end": 76.28,
+          "probability": 0.64990234375
+        },
+        {
+          "word": " 문턱",
+          "start": 76.28,
+          "end": 77.16,
+          "probability": 0.87158203125
+        },
+        {
+          "word": " 넘고",
+          "start": 77.16,
+          "end": 77.9,
+          "probability": 0.89892578125
+        },
+        {
+          "word": " 싶어",
+          "start": 77.9,
+          "end": 79.66,
+          "probability": 0.99462890625
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "seek": 5928,
+      "start": 82.82,
+      "end": 86.44,
+      "text": " 반포야 반포야 너는 나의 별",
+      "tokens": [
+        51565,
+        16396,
+        30600,
+        4248,
+        16396,
+        30600,
+        4248,
+        12963,
+        1098,
+        3948,
+        2785,
+        47442,
+        51755
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.49534820556640624,
+      "compression_ratio": 1.275,
+      "no_speech_prob": 7.068309045704657e-12,
+      "words": [
+        {
+          "word": " 반포야",
+          "start": 82.82,
+          "end": 84.06,
+          "probability": 0.681640625
+        },
+        {
+          "word": " 반포야",
+          "start": 84.06,
+          "end": 84.84,
+          "probability": 0.984375
+        },
+        {
+          "word": " 너는",
+          "start": 84.84,
+          "end": 85.4,
+          "probability": 0.986328125
+        },
+        {
+          "word": " 나의",
+          "start": 85.4,
+          "end": 85.98,
+          "probability": 0.99609375
+        },
+        {
+          "word": " 별",
+          "start": 85.98,
+          "end": 86.44,
+          "probability": 0.9921875
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "seek": 8644,
+      "start": 86.44,
+      "end": 90.0,
+      "text": " 자야 자야 나를 안아줘",
+      "tokens": [
+        50365,
+        5650,
+        4248,
+        5650,
+        4248,
+        12623,
+        2429,
+        4811,
+        2230,
+        30117,
+        50560
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1706631710654811,
+      "compression_ratio": 1.3966480446927374,
+      "no_speech_prob": 7.152415378713917e-12,
+      "words": [
+        {
+          "word": " 자야",
+          "start": 86.44,
+          "end": 87.68,
+          "probability": 0.5341796875
+        },
+        {
+          "word": " 자야",
+          "start": 87.68,
+          "end": 88.22,
+          "probability": 0.681640625
+        },
+        {
+          "word": " 나를",
+          "start": 88.22,
+          "end": 89.08,
+          "probability": 0.88671875
+        },
+        {
+          "word": " 안아줘",
+          "start": 89.08,
+          "end": 90.0,
+          "probability": 0.7197265625
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "seek": 8644,
+      "start": 90.0,
+      "end": 94.12,
+      "text": " 삼각지의 왕관 내가 쓸래",
+      "tokens": [
+        50560,
+        32391,
+        7387,
+        1831,
+        2785,
+        4186,
+        243,
+        18472,
+        10474,
+        11647,
+        1397,
+        4241,
+        50751
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1706631710654811,
+      "compression_ratio": 1.3966480446927374,
+      "no_speech_prob": 7.152415378713917e-12,
+      "words": [
+        {
+          "word": " 삼각지의",
+          "start": 90.0,
+          "end": 91.74,
+          "probability": 0.541015625
+        },
+        {
+          "word": " 왕관",
+          "start": 91.74,
+          "end": 92.36,
+          "probability": 0.91162109375
+        },
+        {
+          "word": " 내가",
+          "start": 92.36,
+          "end": 92.9,
+          "probability": 0.7158203125
+        },
+        {
+          "word": " 쓸래",
+          "start": 92.9,
+          "end": 94.12,
+          "probability": 0.98583984375
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "seek": 8644,
+      "start": 94.12,
+      "end": 99.0,
+      "text": " 하꿈치도 나를 반겨줄래",
+      "tokens": [
+        50751,
+        3369,
+        30484,
+        230,
+        4741,
+        8226,
+        12623,
+        2429,
+        16396,
+        19591,
+        6756,
+        2703,
+        4241,
+        51065
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1706631710654811,
+      "compression_ratio": 1.3966480446927374,
+      "no_speech_prob": 7.152415378713917e-12,
+      "words": [
+        {
+          "word": " 하꿈치도",
+          "start": 94.12,
+          "end": 95.2,
+          "probability": 0.74462890625
+        },
+        {
+          "word": " 나를",
+          "start": 95.2,
+          "end": 95.96,
+          "probability": 0.99951171875
+        },
+        {
+          "word": " 반겨줄래",
+          "start": 95.96,
+          "end": 99.0,
+          "probability": 0.98681640625
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "seek": 8644,
+      "start": 100.44,
+      "end": 104.18,
+      "text": " 승리의 숫자에 내 맘을 춤춰",
+      "tokens": [
+        51065,
+        30977,
+        18735,
+        2785,
+        3471,
+        104,
+        4264,
+        1517,
+        6918,
+        1747,
+        246,
+        1638,
+        40037,
+        39929,
+        51254
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1706631710654811,
+      "compression_ratio": 1.3966480446927374,
+      "no_speech_prob": 7.152415378713917e-12,
+      "words": [
+        {
+          "word": " 승리의",
+          "start": 100.44,
+          "end": 101.54,
+          "probability": 0.80126953125
+        },
+        {
+          "word": " 숫자에",
+          "start": 101.54,
+          "end": 102.4,
+          "probability": 0.9833984375
+        },
+        {
+          "word": " 내",
+          "start": 102.4,
+          "end": 102.88,
+          "probability": 0.98046875
+        },
+        {
+          "word": " 맘을",
+          "start": 102.88,
+          "end": 103.3,
+          "probability": 0.88916015625
+        },
+        {
+          "word": " 춤춰",
+          "start": 103.3,
+          "end": 104.18,
+          "probability": 0.9755859375
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "seek": 8644,
+      "start": 104.18,
+      "end": 107.82,
+      "text": " 반포의 꿈이 나를 깨우네",
+      "tokens": [
+        51254,
+        16396,
+        30600,
+        2785,
+        43487,
+        1129,
+        12623,
+        2429,
+        8394,
+        101,
+        22471,
+        5626,
+        51435
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1706631710654811,
+      "compression_ratio": 1.3966480446927374,
+      "no_speech_prob": 7.152415378713917e-12,
+      "words": [
+        {
+          "word": " 반포의",
+          "start": 104.18,
+          "end": 105.12,
+          "probability": 0.919921875
+        },
+        {
+          "word": " 꿈이",
+          "start": 105.12,
+          "end": 105.82,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " 나를",
+          "start": 105.82,
+          "end": 106.6,
+          "probability": 0.99658203125
+        },
+        {
+          "word": " 깨우네",
+          "start": 106.6,
+          "end": 107.82,
+          "probability": 0.9970703125
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "seek": 8644,
+      "start": 107.82,
+      "end": 111.3,
+      "text": " 자의의 이름을 가슴에 새기며",
+      "tokens": [
+        51435,
+        5650,
+        2785,
+        2785,
+        28581,
+        1638,
+        4147,
+        2038,
+        19086,
+        31184,
+        7091,
+        18095,
+        51614
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1706631710654811,
+      "compression_ratio": 1.3966480446927374,
+      "no_speech_prob": 7.152415378713917e-12,
+      "words": [
+        {
+          "word": " 자의의",
+          "start": 107.82,
+          "end": 108.76,
+          "probability": 0.69677734375
+        },
+        {
+          "word": " 이름을",
+          "start": 108.76,
+          "end": 109.66,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " 가슴에",
+          "start": 109.66,
+          "end": 110.44,
+          "probability": 0.99853515625
+        },
+        {
+          "word": " 새기며",
+          "start": 110.44,
+          "end": 111.3,
+          "probability": 0.98291015625
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "seek": 8644,
+      "start": 111.3,
+      "end": 115.16,
+      "text": " 내 미래를 이곳에 맡기고 싶어",
+      "tokens": [
+        51614,
+        6918,
+        29004,
+        14387,
+        2429,
+        2620,
+        39364,
+        1517,
+        49132,
+        2401,
+        1313,
+        10785,
+        3103,
+        51825
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1706631710654811,
+      "compression_ratio": 1.3966480446927374,
+      "no_speech_prob": 7.152415378713917e-12,
+      "words": [
+        {
+          "word": " 내",
+          "start": 111.3,
+          "end": 111.86,
+          "probability": 0.9794921875
+        },
+        {
+          "word": " 미래를",
+          "start": 111.86,
+          "end": 112.54,
+          "probability": 0.9892578125
+        },
+        {
+          "word": " 이곳에",
+          "start": 112.54,
+          "end": 113.38,
+          "probability": 0.99609375
+        },
+        {
+          "word": " 맡기고",
+          "start": 113.38,
+          "end": 114.32,
+          "probability": 0.99560546875
+        },
+        {
+          "word": " 싶어",
+          "start": 114.32,
+          "end": 115.16,
+          "probability": 0.99853515625
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "seek": 11516,
+      "start": 115.16,
+      "end": 118.7,
+      "text": " 반포야 반포야 너는 나의 별",
+      "tokens": [
+        50365,
+        16396,
+        30600,
+        4248,
+        16396,
+        30600,
+        4248,
+        12963,
+        1098,
+        3948,
+        2785,
+        47442,
+        50560
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1581498991768315,
+      "compression_ratio": 1.173913043478261,
+      "no_speech_prob": 2.2239647623489844e-11,
+      "words": [
+        {
+          "word": " 반포야",
+          "start": 115.16,
+          "end": 116.3,
+          "probability": 0.9140625
+        },
+        {
+          "word": " 반포야",
+          "start": 116.3,
+          "end": 117.08,
+          "probability": 0.994140625
+        },
+        {
+          "word": " 너는",
+          "start": 117.08,
+          "end": 117.64,
+          "probability": 0.583984375
+        },
+        {
+          "word": " 나의",
+          "start": 117.64,
+          "end": 118.26,
+          "probability": 0.96533203125
+        },
+        {
+          "word": " 별",
+          "start": 118.26,
+          "end": 118.7,
+          "probability": 0.79541015625
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "seek": 11516,
+      "start": 118.7,
+      "end": 122.5,
+      "text": " 자야 자야 나를 안아줘",
+      "tokens": [
+        50560,
+        5650,
+        4248,
+        5650,
+        4248,
+        12623,
+        2429,
+        4811,
+        2230,
+        30117,
+        50735
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1581498991768315,
+      "compression_ratio": 1.173913043478261,
+      "no_speech_prob": 2.2239647623489844e-11,
+      "words": [
+        {
+          "word": " 자야",
+          "start": 118.7,
+          "end": 119.9,
+          "probability": 0.9111328125
+        },
+        {
+          "word": " 자야",
+          "start": 119.9,
+          "end": 120.48,
+          "probability": 0.96484375
+        },
+        {
+          "word": " 나를",
+          "start": 120.48,
+          "end": 121.3,
+          "probability": 0.51806640625
+        },
+        {
+          "word": " 안아줘",
+          "start": 121.3,
+          "end": 122.5,
+          "probability": 0.9794921875
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "seek": 11516,
+      "start": 122.5,
+      "end": 126.38,
+      "text": " 삼각지의 왕관 내가 쓸래",
+      "tokens": [
+        50735,
+        32391,
+        7387,
+        1831,
+        2785,
+        4186,
+        243,
+        18472,
+        10474,
+        11647,
+        1397,
+        4241,
+        50926
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1581498991768315,
+      "compression_ratio": 1.173913043478261,
+      "no_speech_prob": 2.2239647623489844e-11,
+      "words": [
+        {
+          "word": " 삼각지의",
+          "start": 122.5,
+          "end": 123.96,
+          "probability": 0.7177734375
+        },
+        {
+          "word": " 왕관",
+          "start": 123.96,
+          "end": 124.6,
+          "probability": 0.9521484375
+        },
+        {
+          "word": " 내가",
+          "start": 124.6,
+          "end": 125.16,
+          "probability": 0.434814453125
+        },
+        {
+          "word": " 쓸래",
+          "start": 125.16,
+          "end": 126.38,
+          "probability": 0.8447265625
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "seek": 11516,
+      "start": 126.38,
+      "end": 131.2,
+      "text": " 하꿈치도 나를 반겨줄래",
+      "tokens": [
+        50926,
+        3369,
+        30484,
+        230,
+        4741,
+        8226,
+        12623,
+        2429,
+        16396,
+        19591,
+        6756,
+        2703,
+        4241,
+        51165
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.1581498991768315,
+      "compression_ratio": 1.173913043478261,
+      "no_speech_prob": 2.2239647623489844e-11,
+      "words": [
+        {
+          "word": " 하꿈치도",
+          "start": 126.38,
+          "end": 127.46,
+          "probability": 0.6904296875
+        },
+        {
+          "word": " 나를",
+          "start": 127.46,
+          "end": 128.22,
+          "probability": 0.99560546875
+        },
+        {
+          "word": " 반겨줄래",
+          "start": 128.22,
+          "end": 131.2,
+          "probability": 0.98193359375
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "seek": 13120,
+      "start": 152.01999999999998,
+      "end": 153.42,
+      "text": "iciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciici",
+      "tokens": [
+        50365,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787,
+        8787
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -0.19510489835867434,
+      "compression_ratio": 39.0,
+      "no_speech_prob": 1.868335486321371e-09,
+      "words": [
+        {
+          "word": "iciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciiciici",
+          "start": 152.01999999999998,
+          "end": 153.42,
+          "probability": 0.96142578125
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "seek": 15342,
+      "start": 153.42,
+      "end": 153.8,
+      "text": " 감사합니다.",
+      "tokens": [
+        50365,
+        24399,
+        13,
+        50465
+      ],
+      "temperature": 0.0,
+      "avg_logprob": -0.45812273025512695,
+      "compression_ratio": 0.64,
+      "no_speech_prob": 1.0619834872604983e-10,
+      "words": [
+        {
+          "word": " 감사합니다.",
+          "start": 153.42,
+          "end": 153.8,
+          "probability": 0.1939697265625
+        }
+      ]
+    }
+  ],
+  "language": "ko"
+}

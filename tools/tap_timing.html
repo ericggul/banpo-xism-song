@@ -1,0 +1,247 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8" />
+<title>tap timing — 반포자이즘</title>
+<style>
+  :root { color-scheme: dark; }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; padding: 24px; font-family: -apple-system, "Apple SD Gothic Neo", system-ui, sans-serif;
+    background: #0c0c0e; color: #eaeaea;
+  }
+  h1 { font-size: 16px; margin: 0 0 12px; color: #aaa; font-weight: 600; }
+  .row { display: flex; gap: 12px; align-items: center; margin-bottom: 12px; flex-wrap: wrap; }
+  button, label.btn {
+    background: #1c1c1f; color: #fff; border: 1px solid #333; border-radius: 6px;
+    padding: 8px 14px; cursor: pointer; font: inherit;
+  }
+  button:hover, label.btn:hover { background: #26262a; }
+  button:disabled { opacity: 0.4; cursor: not-allowed; }
+  input[type=file] { display: none; }
+  .clock { font-variant-numeric: tabular-nums; color: #f0c800; font-size: 14px; }
+  audio { width: 100%; margin: 8px 0 16px; }
+  .stage {
+    background: #131316; border: 1px solid #2a2a2f; border-radius: 10px;
+    padding: 28px; min-height: 220px; display: flex; flex-direction: column; gap: 14px;
+  }
+  .now { font-size: 44px; line-height: 1.25; color: #ffeb3b; text-shadow: 2px 2px 0 #000; }
+  .next { font-size: 22px; color: #888; }
+  .meta { font-size: 12px; color: #666; margin-top: 4px; }
+  .help { font-size: 12px; color: #888; margin-top: 14px; }
+  kbd { background:#222; padding:1px 6px; border-radius:4px; border:1px solid #444; font-family: ui-monospace, monospace; }
+  table { width: 100%; border-collapse: collapse; margin-top: 14px; font-size: 13px; }
+  th, td { border-bottom: 1px solid #222; padding: 4px 6px; text-align: left; }
+  td.t { font-variant-numeric: tabular-nums; color: #f0c800; width: 90px; }
+  tr.active td { background: #1d1d22; }
+  tr.done td { color: #666; }
+  .pill { display:inline-block; padding:1px 8px; border-radius: 999px; background:#1f1f23; color:#aaa; font-size:11px; }
+</style>
+</head>
+<body>
+<h1>tap timing — load audio + lyrics, tap <kbd>Space</kbd> at each line start</h1>
+
+<div class="row">
+  <label class="btn">load audio<input type="file" id="audioFile" accept="audio/*"></label>
+  <label class="btn">load lyrics.txt<input type="file" id="lyricsFile" accept=".txt"></label>
+  <button id="loadDefaults">load defaults (../audio/반포자이즘-1.mp3 + ../lyrics/lyrics.txt)</button>
+  <span class="clock" id="clock">0.00s</span>
+  <span class="pill" id="rateLabel">1.0×</span>
+</div>
+
+<div class="row">
+  <button id="speedDown">slower</button>
+  <button id="speedUp">faster</button>
+  <button id="resetTimings">reset timings</button>
+  <button id="download" disabled>download timings.json</button>
+  <button id="downloadAss" disabled>download .ass preview</button>
+</div>
+
+<audio id="audio" controls></audio>
+
+<div class="stage">
+  <div class="meta" id="status">load audio + lyrics to begin</div>
+  <div class="now" id="nowLine">—</div>
+  <div class="next" id="nextLine"></div>
+</div>
+
+<div class="help">
+  <kbd>Space</kbd> mark current line start &amp; advance ·
+  <kbd>Backspace</kbd> undo last ·
+  <kbd>←</kbd>/<kbd>→</kbd> seek 2s ·
+  <kbd>↑</kbd>/<kbd>↓</kbd> speed ·
+  <kbd>Enter</kbd> play/pause ·
+  <kbd>R</kbd> replay current line
+</div>
+
+<table id="tbl"><thead>
+  <tr><th>#</th><th>section</th><th>start</th><th>end</th><th>line</th></tr>
+</thead><tbody></tbody></table>
+
+<script>
+const audioEl = document.getElementById('audio');
+const clockEl = document.getElementById('clock');
+const rateLabel = document.getElementById('rateLabel');
+const nowEl = document.getElementById('nowLine');
+const nextEl = document.getElementById('nextLine');
+const statusEl = document.getElementById('status');
+const tbody = document.querySelector('#tbl tbody');
+const downloadBtn = document.getElementById('download');
+const downloadAssBtn = document.getElementById('downloadAss');
+
+let lines = []; // [{section, text}]
+let starts = []; // parallel array, NaN if not yet tapped
+let idx = 0;
+
+function parseLyrics(text) {
+  const out = [];
+  let section = "";
+  for (const raw of text.split(/\r?\n/)) {
+    const s = raw.trim();
+    if (!s) continue;
+    const m = s.match(/^\[(.+)\]$/);
+    if (m) { section = m[1].trim(); continue; }
+    out.push({ section, text: s });
+  }
+  return out;
+}
+
+function renderTable() {
+  tbody.innerHTML = '';
+  for (let i = 0; i < lines.length; i++) {
+    const tr = document.createElement('tr');
+    if (i === idx) tr.classList.add('active');
+    if (!isNaN(starts[i])) tr.classList.add('done');
+    const end = isNaN(starts[i+1]) ? (i === lines.length - 1 && audioEl.duration ? audioEl.duration : NaN) : starts[i+1];
+    tr.innerHTML = `<td>${i+1}</td><td>${lines[i].section}</td>
+      <td class="t">${isNaN(starts[i]) ? '—' : starts[i].toFixed(2)}</td>
+      <td class="t">${isNaN(end) ? '—' : end.toFixed(2)}</td>
+      <td>${lines[i].text}</td>`;
+    tr.addEventListener('click', () => {
+      if (!isNaN(starts[i])) { audioEl.currentTime = Math.max(0, starts[i] - 0.2); audioEl.play(); }
+      idx = i; renderStage();
+    });
+    tbody.appendChild(tr);
+  }
+}
+
+function renderStage() {
+  if (!lines.length) {
+    nowEl.textContent = '—'; nextEl.textContent = '';
+    statusEl.textContent = 'load audio + lyrics to begin';
+    return;
+  }
+  if (idx >= lines.length) {
+    nowEl.textContent = '✓ done'; nextEl.textContent = '';
+    statusEl.textContent = `${lines.length} lines marked — download below`;
+    downloadBtn.disabled = false;
+    downloadAssBtn.disabled = false;
+    return;
+  }
+  nowEl.textContent = lines[idx].text;
+  nextEl.textContent = lines[idx+1] ? `next: ${lines[idx+1].text}` : '(last line)';
+  statusEl.textContent = `line ${idx+1}/${lines.length} · section: ${lines[idx].section || '(none)'}`;
+  downloadBtn.disabled = !starts.some(s => !isNaN(s));
+  downloadAssBtn.disabled = !starts.some(s => !isNaN(s));
+}
+
+function tap() {
+  if (!lines.length || idx >= lines.length) return;
+  starts[idx] = audioEl.currentTime;
+  idx += 1;
+  renderTable(); renderStage();
+}
+function undo() {
+  if (idx === 0) return;
+  idx -= 1;
+  starts[idx] = NaN;
+  renderTable(); renderStage();
+}
+function buildTimings() {
+  const total = audioEl.duration || (starts.filter(x=>!isNaN(x)).slice(-1)[0] + 4);
+  const out = [];
+  for (let i = 0; i < lines.length; i++) {
+    let s = starts[i];
+    if (isNaN(s)) s = i === 0 ? 0 : out[i-1].end; // fallback
+    let e;
+    for (let j = i + 1; j < lines.length; j++) {
+      if (!isNaN(starts[j])) { e = starts[j]; break; }
+    }
+    if (e === undefined) e = total;
+    out.push({ start: +s.toFixed(3), end: +e.toFixed(3) });
+  }
+  return out;
+}
+function download(name, content, mime='application/json') {
+  const blob = new Blob([content], { type: mime });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url; a.download = name; a.click();
+  setTimeout(() => URL.revokeObjectURL(url), 1000);
+}
+
+document.getElementById('audioFile').addEventListener('change', e => {
+  const f = e.target.files[0]; if (!f) return;
+  audioEl.src = URL.createObjectURL(f);
+});
+document.getElementById('lyricsFile').addEventListener('change', async e => {
+  const f = e.target.files[0]; if (!f) return;
+  const text = await f.text();
+  lines = parseLyrics(text);
+  starts = lines.map(() => NaN);
+  idx = 0;
+  renderTable(); renderStage();
+});
+document.getElementById('loadDefaults').addEventListener('click', async () => {
+  try {
+    audioEl.src = '../audio/반포자이즘-1.mp3';
+    const r = await fetch('../lyrics/lyrics.txt');
+    if (!r.ok) throw new Error(r.statusText);
+    lines = parseLyrics(await r.text());
+    starts = lines.map(() => NaN);
+    idx = 0;
+    renderTable(); renderStage();
+  } catch (err) {
+    statusEl.textContent = 'defaults failed — open this page via a local http server (python3 -m http.server) or pick files manually';
+  }
+});
+document.getElementById('resetTimings').addEventListener('click', () => {
+  starts = lines.map(() => NaN); idx = 0; renderTable(); renderStage();
+});
+document.getElementById('download').addEventListener('click', () => {
+  download('timings.json', JSON.stringify(buildTimings(), null, 2));
+});
+document.getElementById('downloadAss').addEventListener('click', () => {
+  // simple preview only — real render uses make_ass.py
+  const t = buildTimings();
+  const head = `[Script Info]\nPlayResX: 1920\nPlayResY: 1080\n\n[V4+ Styles]\nFormat: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding\nStyle: Lyric,AppleSDGothicNeo-Bold,88,&H0000F0FF,&H000000FF,&H00000000,&H80000000,-1,0,0,0,100,100,2,0,1,6,3,2,60,60,110,1\n\n[Events]\nFormat: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text\n`;
+  function ts(x){const h=Math.floor(x/3600),m=Math.floor((x%3600)/60),s=(x%60).toFixed(2).padStart(5,'0');return `${h}:${String(m).padStart(2,'0')}:${s}`;}
+  const lines2 = t.map((tt, i) => `Dialogue: 0,${ts(tt.start)},${ts(tt.end)},Lyric,,0,0,0,,${lines[i].text}`);
+  download('preview.ass', head + lines2.join('\n') + '\n', 'text/plain');
+});
+
+document.getElementById('speedDown').addEventListener('click', () => { audioEl.playbackRate = Math.max(0.5, audioEl.playbackRate - 0.1); rateLabel.textContent = audioEl.playbackRate.toFixed(1) + '×'; });
+document.getElementById('speedUp').addEventListener('click', () => { audioEl.playbackRate = Math.min(1.5, audioEl.playbackRate + 0.1); rateLabel.textContent = audioEl.playbackRate.toFixed(1) + '×'; });
+
+audioEl.addEventListener('timeupdate', () => clockEl.textContent = audioEl.currentTime.toFixed(2) + 's');
+
+document.addEventListener('keydown', e => {
+  if (e.target.tagName === 'INPUT') return;
+  switch (e.code) {
+    case 'Space': e.preventDefault(); tap(); break;
+    case 'Backspace': e.preventDefault(); undo(); break;
+    case 'ArrowLeft': audioEl.currentTime = Math.max(0, audioEl.currentTime - 2); break;
+    case 'ArrowRight': audioEl.currentTime = Math.min(audioEl.duration || 999, audioEl.currentTime + 2); break;
+    case 'ArrowUp': audioEl.playbackRate = Math.min(1.5, audioEl.playbackRate + 0.1); rateLabel.textContent = audioEl.playbackRate.toFixed(1) + '×'; break;
+    case 'ArrowDown': audioEl.playbackRate = Math.max(0.5, audioEl.playbackRate - 0.1); rateLabel.textContent = audioEl.playbackRate.toFixed(1) + '×'; break;
+    case 'Enter': e.preventDefault(); audioEl.paused ? audioEl.play() : audioEl.pause(); break;
+    case 'KeyR':
+      if (idx > 0 && !isNaN(starts[idx-1])) { audioEl.currentTime = Math.max(0, starts[idx-1] - 0.2); audioEl.play(); }
+      break;
+  }
+});
+
+renderTable(); renderStage();
+</script>
+</body>
+</html>

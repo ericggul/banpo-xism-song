@@ -1,0 +1,28 @@
+Album cover, 9:16 vertical, ~1080×1920 (YouTube Shorts / Reels / TikTok), illustrated / anime-adjacent style with painterly shading (no photoreal skin).
+
+COMPOSITION (identical to the reference cover for song 1 — keep girl, pose, props, skyline, and logotype consistent across the whole series):
+A young Korean woman in her early twenties with long dark hair stands on a high apartment balcony at night, body turned three-quarters to the right so her profile faces camera-left. She wears a small ornamental gold crown perched on her head. In her right hand she holds up a smartphone displaying a real-estate listing screen (apartment thumbnail visible). In her left hand she carries a luxury paper shopping bag (cream/beige with "LUXURY" lettering on the side). Behind her, the Banpo (반포) riverside apartment complex stretches across the Han river at night — dense rows of lit-up high-rise residential towers, the iconic rainbow-lit Banpo Bridge moonlight fountain spilling colored light across the water in mid-frame, the Lotte World Tower spire on the left horizon, distant Seoul skyline.
+
+LOCKED LOGOTYPE — bottom-right corner: the stylized 3D Korean wordmark "반포자이즘" rendered in thick chunky letterforms, glossy yellow-to-orange gradient fill with a bright cyan/teal outline and subtle glow. This must match the exact same logo style as cover 1 (treat as a fixed brand mark across the whole 21-cover series; never alter it regardless of tone).
+
+TONE — K-Pop hip-hop — glossy bling swagger:
+- Palette: obsidian black + 24k gold + hot pink + ice white.
+- Lighting: studio-bright key from camera-right, hard rim of pink neon, glossy plasticky surfaces.
+- Atmosphere: subtle smoke at her ankles, gold chain glints catching light, paper bag re-treated with embossed gold foil texture, faint dollar-sign or hash-tag sparkles.
+- Expression: sharp smirk, one brow raised, tinted black sunglasses pushed down on her nose.
+- Extra: chunky Cuban-link gold chain, oversized hoop earrings, manicured nails visible on the phone.
+
+THIS TRACK (9) — K-Pop Hip Hop, 1:49, 129 BPM, C major:
+- Outfit / styling: black crop top under an open white blazer, gold hoops, tinted shades.
+- Track-specific note: she's pushing the shades down with one finger; high-gloss, mid-action attitude.
+
+AUDIO-DERIVED NOTES (use these to calibrate energy & mood — these are objective features pulled from the actual mp3):
+- Tempo: 129 BPM (uptempo). Match the cover's implied movement to this — wind, particles, hair sway.
+- Key: C major (major). Push warmer / more triumphant palette accents.
+- Spectral centroid: 2744 Hz — bright spectrum. Lean brighter highlights.
+- Onset rate: 3.38 events/sec — moderate attack density. Keep negative space; avoid busy particles.
+- Intro silence: 0.4s — almost no intro — straight into energy.
+
+The locked 반포자이즘 logotype in the bottom-right corner ALWAYS keeps its original vivid yellow-orange gradient and cyan/teal outline — never restyle it to match the tone. It should remain the consistent brand mark across all 21 covers, identical between horizontal and vertical variants.
+
+Avoid: harsh deviations from the locked composition, additional UI elements, watermarks, photoreal faces, exaggerated anime proportions, extra captions or text overlays.

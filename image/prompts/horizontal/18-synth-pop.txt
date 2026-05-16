@@ -1,0 +1,28 @@
+Album cover, 16:9 horizontal, ~1920×1080, illustrated / anime-adjacent style with painterly shading (no photoreal skin).
+
+COMPOSITION (identical to the reference cover for song 1 — keep girl, pose, props, skyline, and logotype consistent across the whole series):
+A young Korean woman in her early twenties with long dark hair stands on a high apartment balcony at night, body turned three-quarters to the right so her profile faces camera-left. She wears a small ornamental gold crown perched on her head. In her right hand she holds up a smartphone displaying a real-estate listing screen (apartment thumbnail visible). In her left hand she carries a luxury paper shopping bag (cream/beige with "LUXURY" lettering on the side). Behind her, the Banpo (반포) riverside apartment complex stretches across the Han river at night — dense rows of lit-up high-rise residential towers, the iconic rainbow-lit Banpo Bridge moonlight fountain spilling colored light across the water in mid-frame, the Lotte World Tower spire on the left horizon, distant Seoul skyline.
+
+LOCKED LOGOTYPE — bottom-right corner: the stylized 3D Korean wordmark "반포자이즘" rendered in thick chunky letterforms, glossy yellow-to-orange gradient fill with a bright cyan/teal outline and subtle glow. This must match the exact same logo style as cover 1 (treat as a fixed brand mark across the whole 21-cover series; never alter it regardless of tone).
+
+TONE — K-Pop synth-driven electronic — vivid neon:
+- Palette: saturated cyan + magenta + electric pink + lemon-yellow accents; chrome highlights on the smartphone and crown.
+- Lighting: harsh stage rim-light, hot pink hair light + cyan key light from screen-side, crisp specular shine.
+- Atmosphere: clear sharp night, light cherry-petal sparkles in the air, faint lens flares, no haze.
+- Expression: confident, lips slightly parted, eyes open, gentle wind in hair.
+- Extra: tiny holographic shimmer on her cheek, neon billboard letter-fragments dissolved into the city bokeh.
+
+THIS TRACK (18) — K-Pop, Synth-driven, Electronic, 2:03, 136 BPM, D# major:
+- Outfit / styling: icy mint-green cardigan, pink hair gradient at the tips.
+- Track-specific note: SAME 136 BPM D# major as cover 1 — variation by palette swap (push green + cyber-pink instead of cyan + magenta) and a Y2K cybergrunge tint (faint dithered noise overlay); same energy, second outfit.
+
+AUDIO-DERIVED NOTES (use these to calibrate energy & mood — these are objective features pulled from the actual mp3):
+- Tempo: 136 BPM (uptempo). Match the cover's implied movement to this — wind, particles, hair sway.
+- Key: D# major (major). Push warmer / more triumphant palette accents.
+- Spectral centroid: 3102 Hz — very bright / glassy spectrum. Lean brighter highlights.
+- Onset rate: 3.94 events/sec — busy attack density (lots of motion). Add scattered motion particles / streaks.
+- Intro silence: 0.3s — almost no intro — straight into energy.
+
+The locked 반포자이즘 logotype in the bottom-right corner ALWAYS keeps its original vivid yellow-orange gradient and cyan/teal outline — never restyle it to match the tone. It should remain the consistent brand mark across all 21 covers, identical between horizontal and vertical variants.
+
+Avoid: harsh deviations from the locked composition, additional UI elements, watermarks, photoreal faces, exaggerated anime proportions, extra captions or text overlays.

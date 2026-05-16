@@ -1,0 +1,23 @@
+[
+  { "index":  1, "filename": "반포자이즘-1",      "duration": "2:33", "genre": "K-Pop, Synth-driven, Electronic",                       "lang": "KO" },
+  { "index":  2, "filename": "반포자이즘-2",      "duration": "2:45", "genre": "Alternative Pop, Baroque Pop, Dream Pop, Sadcore",     "lang": "KO" },
+  { "index":  3, "filename": "반포자이즘-3",      "duration": "2:06", "genre": "2025 House Electronic Hip Hop",                        "lang": "KO" },
+  { "index":  4, "filename": "반포자이즘-4",      "duration": "1:56", "genre": "K-Pop, Synth-driven, Electronic",                       "lang": "KO" },
+  { "index":  5, "filename": "반포자이즘-5",      "duration": "1:19", "genre": "90s East Coast Hip-Hop",                                "lang": "KO" },
+  { "index":  6, "filename": "반포자이즘-6",      "duration": "2:29", "genre": "Electropop, Dark Indie Pop",                            "lang": "KO" },
+  { "index":  7, "filename": "반포자이즘-7",      "duration": "4:06", "genre": "2020s Progressive House",                               "lang": "KO" },
+  { "index":  8, "filename": "반포자이즘-8",      "duration": "3:03", "genre": "Korean Drama OST",                                      "lang": "KO" },
+  { "index":  9, "filename": "반포자이즘-9",      "duration": "1:49", "genre": "K-Pop Hip Hop",                                         "lang": "KO" },
+  { "index": 10, "filename": "반포자이즘-10",     "duration": "2:12", "genre": "Europop 2000s",                                         "lang": "KO" },
+  { "index": 11, "filename": "반포자이즘-11",     "duration": "2:02", "genre": "2025 House Electronic Hip Hop",                        "lang": "KO" },
+  { "index": 12, "filename": "반포자이즘-12",     "duration": "2:49", "genre": "Berlin House, Hardcore, Minimal",                      "lang": "KO" },
+  { "index": 13, "filename": "반포자이즘-13",     "duration": "3:09", "genre": "Korean Drama OST",                                      "lang": "KO" },
+  { "index": 14, "filename": "반포자이즘-14",     "duration": "2:35", "genre": "1930s Jazz & Blues",                                    "lang": "KO" },
+  { "index": 15, "filename": "반포자이즘-15",     "duration": "2:32", "genre": "Europop 2000s",                                         "lang": "KO" },
+  { "index": 16, "filename": "반포자이즘-16",     "duration": "2:50", "genre": "Korean Drama OST",                                      "lang": "KO" },
+  { "index": 17, "filename": "반포자이즘-17",     "duration": "1:31", "genre": "K-Pop Hip Hop",                                         "lang": "KO" },
+  { "index": 18, "filename": "반포자이즘-18",     "duration": "2:03", "genre": "K-Pop, Synth-driven, Electronic",                       "lang": "KO" },
+  { "index": 19, "filename": "バンポザイの夢",    "duration": "2:56", "genre": "Japanese Anime Ending OST", "lang": "JA", "isBonus": true },
+  { "index": 20, "filename": "Le rêve de BanpoXi","duration": "2:44", "genre": "1980s French Song",         "lang": "FR", "isBonus": true },
+  { "index": 21, "filename": "BanpoXis Traum",    "duration": "2:46", "genre": "Late 90s Berlin House",    "lang": "DE", "isBonus": true }
+]

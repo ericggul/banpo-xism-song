@@ -1,0 +1,28 @@
+Album cover, 16:9 horizontal, ~1920×1080, illustrated / anime-adjacent style with painterly shading (no photoreal skin).
+
+COMPOSITION (identical to the reference cover for song 1 — keep girl, pose, props, skyline, and logotype consistent across the whole series):
+A young Korean woman in her early twenties with long dark hair stands on a high apartment balcony at night, body turned three-quarters to the right so her profile faces camera-left. She wears a small ornamental gold crown perched on her head. In her right hand she holds up a smartphone displaying a real-estate listing screen (apartment thumbnail visible). In her left hand she carries a luxury paper shopping bag (cream/beige with "LUXURY" lettering on the side). Behind her, the Banpo (반포) riverside apartment complex stretches across the Han river at night — dense rows of lit-up high-rise residential towers, the iconic rainbow-lit Banpo Bridge moonlight fountain spilling colored light across the water in mid-frame, the Lotte World Tower spire on the left horizon, distant Seoul skyline.
+
+LOCKED LOGOTYPE — bottom-right corner: the stylized 3D Korean wordmark "반포자이즘" rendered in thick chunky letterforms, glossy yellow-to-orange gradient fill with a bright cyan/teal outline and subtle glow. This must match the exact same logo style as cover 1 (treat as a fixed brand mark across the whole 21-cover series; never alter it regardless of tone).
+
+TONE — Korean Drama OST — winter snow climax:
+- Palette: navy blues, pure whites, warm amber lamp pools on snow, breath-fog cool whites.
+- Lighting: warm tungsten streetlamp from below-left, cool moonlight wash, breath visible against dark sky.
+- Atmosphere: thick gentle snow flurries falling around her, soft white powder on shoulders and crown, small puffs of breath, an empty park bench far below.
+- Expression: softly wistful, slight smile through cold, eyes shining, a single snowflake on her eyelash.
+- Extra: treatment like an 'Goblin (도깨비)' or 'Crash Landing on You' OST cover, cinematic 21:9 wide framing energy compressed into 16:9.
+
+THIS TRACK (13) — Korean Drama OST, 3:09, 144 BPM, A# major:
+- Outfit / styling: ivory wool cardigan, beige scarf loose at her neck.
+- Track-specific note: snow crown the perched gold crown; this OST is faster (143 BPM) so a sweeping wind catches her hair and a few cherry-blossom-like snow swirls cross the frame.
+
+AUDIO-DERIVED NOTES (use these to calibrate energy & mood — these are objective features pulled from the actual mp3):
+- Tempo: 144 BPM (fast / driving). Match the cover's implied movement to this — wind, particles, hair sway.
+- Key: A# major (major). Push warmer / more triumphant palette accents.
+- Spectral centroid: 2193 Hz — dark / muffled spectrum. Lean dimmer, more shadow.
+- Onset rate: 2.36 events/sec — sparse attack density (slow events). Keep negative space; avoid busy particles.
+- Intro silence: 3.9s — long instrumental intro — favor stillness in the pose.
+
+The locked 반포자이즘 logotype in the bottom-right corner ALWAYS keeps its original vivid yellow-orange gradient and cyan/teal outline — never restyle it to match the tone. It should remain the consistent brand mark across all 21 covers, identical between horizontal and vertical variants.
+
+Avoid: harsh deviations from the locked composition, additional UI elements, watermarks, photoreal faces, exaggerated anime proportions, extra captions or text overlays.

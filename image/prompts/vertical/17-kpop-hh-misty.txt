@@ -1,0 +1,28 @@
+Album cover, 9:16 vertical, ~1080×1920 (YouTube Shorts / Reels / TikTok), illustrated / anime-adjacent style with painterly shading (no photoreal skin).
+
+COMPOSITION (identical to the reference cover for song 1 — keep girl, pose, props, skyline, and logotype consistent across the whole series):
+A young Korean woman in her early twenties with long dark hair stands on a high apartment balcony at night, body turned three-quarters to the right so her profile faces camera-left. She wears a small ornamental gold crown perched on her head. In her right hand she holds up a smartphone displaying a real-estate listing screen (apartment thumbnail visible). In her left hand she carries a luxury paper shopping bag (cream/beige with "LUXURY" lettering on the side). Behind her, the Banpo (반포) riverside apartment complex stretches across the Han river at night — dense rows of lit-up high-rise residential towers, the iconic rainbow-lit Banpo Bridge moonlight fountain spilling colored light across the water in mid-frame, the Lotte World Tower spire on the left horizon, distant Seoul skyline.
+
+LOCKED LOGOTYPE — bottom-right corner: the stylized 3D Korean wordmark "반포자이즘" rendered in thick chunky letterforms, glossy yellow-to-orange gradient fill with a bright cyan/teal outline and subtle glow. This must match the exact same logo style as cover 1 (treat as a fixed brand mark across the whole 21-cover series; never alter it regardless of tone).
+
+TONE — K-Pop hip-hop — late-night trap chill:
+- Palette: deep teal + muted gold + foggy lavender; less saturation than the glossy variant.
+- Lighting: soft phone-screen glow lighting her face from below-right, dim warm streetlamp far away.
+- Atmosphere: thick low fog, occasional drifting embers, a long exhale of vapor near her mouth, subtle muted city haze.
+- Expression: drowsy half-lidded eyes, deadpan, lips slightly pursed — the look of 3 a.m..
+- Extra: thin chain instead of dookie, smaller earrings, headphone cable trailing from her ear; like a 88rising / Crush 4 a.m. record sleeve.
+
+THIS TRACK (17) — K-Pop Hip Hop, 1:31, 89 BPM, A# major:
+- Outfit / styling: oversized hoodie under cardigan, hood half-up, wired earbuds in ear.
+- Track-specific note: the slowest kpop-hh track (89 BPM, A# major) — late-night, the phone-screen is the brightest light on her face.
+
+AUDIO-DERIVED NOTES (use these to calibrate energy & mood — these are objective features pulled from the actual mp3):
+- Tempo: 89 BPM (slow ballad pace). Match the cover's implied movement to this — wind, particles, hair sway.
+- Key: A# major (major). Push warmer / more triumphant palette accents.
+- Spectral centroid: 3118 Hz — very bright / glassy spectrum. Lean brighter highlights.
+- Onset rate: 3.50 events/sec — busy attack density (lots of motion). Add scattered motion particles / streaks.
+- Intro silence: 0.3s — almost no intro — straight into energy.
+
+The locked 반포자이즘 logotype in the bottom-right corner ALWAYS keeps its original vivid yellow-orange gradient and cyan/teal outline — never restyle it to match the tone. It should remain the consistent brand mark across all 21 covers, identical between horizontal and vertical variants.
+
+Avoid: harsh deviations from the locked composition, additional UI elements, watermarks, photoreal faces, exaggerated anime proportions, extra captions or text overlays.

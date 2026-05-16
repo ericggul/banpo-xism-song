@@ -1,0 +1,28 @@
+Album cover, 9:16 vertical, ~1080×1920 (YouTube Shorts / Reels / TikTok), illustrated / anime-adjacent style with painterly shading (no photoreal skin).
+
+COMPOSITION (identical to the reference cover for song 1 — keep girl, pose, props, skyline, and logotype consistent across the whole series):
+A young Korean woman in her early twenties with long dark hair stands on a high apartment balcony at night, body turned three-quarters to the right so her profile faces camera-left. She wears a small ornamental gold crown perched on her head. In her right hand she holds up a smartphone displaying a real-estate listing screen (apartment thumbnail visible). In her left hand she carries a luxury paper shopping bag (cream/beige with "LUXURY" lettering on the side). Behind her, the Banpo (반포) riverside apartment complex stretches across the Han river at night — dense rows of lit-up high-rise residential towers, the iconic rainbow-lit Banpo Bridge moonlight fountain spilling colored light across the water in mid-frame, the Lotte World Tower spire on the left horizon, distant Seoul skyline.
+
+LOCKED LOGOTYPE — bottom-right corner: the stylized 3D Korean wordmark "반포자이즘" rendered in thick chunky letterforms, glossy yellow-to-orange gradient fill with a bright cyan/teal outline and subtle glow. This must match the exact same logo style as cover 1 (treat as a fixed brand mark across the whole 21-cover series; never alter it regardless of tone).
+
+TONE — Korean Drama OST — autumn farewell:
+- Palette: warm rust oranges, golden ochres, deep walnut browns, soft cream highlights.
+- Lighting: low golden-hour sunset bleeding sideways across her face, long warm shadows, soft halation.
+- Atmosphere: red maple + ginkgo leaves drifting through the air, a few caught on her crown and bag, late-autumn warmth fighting an evening chill.
+- Expression: bittersweet half-smile, eyes turned to the river slightly downcast, expression of letting-go.
+- Extra: treatment like a JTBC romance drama poster — softly painterly, slight oil-paint canvas grain.
+
+THIS TRACK (16) — Korean Drama OST, 2:50, 152 BPM, D major:
+- Outfit / styling: soft camel coat over the cardigan, knit scarf.
+- Track-specific note: longest intro of the album (6.1s) — gives the cover a more deliberate, painterly stillness; maple + ginkgo leaves drifting.
+
+AUDIO-DERIVED NOTES (use these to calibrate energy & mood — these are objective features pulled from the actual mp3):
+- Tempo: 152 BPM (fast / driving). Match the cover's implied movement to this — wind, particles, hair sway.
+- Key: D major (major). Push warmer / more triumphant palette accents.
+- Spectral centroid: 2225 Hz — warm mid spectrum. Lean dimmer, more shadow.
+- Onset rate: 2.74 events/sec — moderate attack density. Keep negative space; avoid busy particles.
+- Intro silence: 6.1s — long instrumental intro — favor stillness in the pose.
+
+The locked 반포자이즘 logotype in the bottom-right corner ALWAYS keeps its original vivid yellow-orange gradient and cyan/teal outline — never restyle it to match the tone. It should remain the consistent brand mark across all 21 covers, identical between horizontal and vertical variants.
+
+Avoid: harsh deviations from the locked composition, additional UI elements, watermarks, photoreal faces, exaggerated anime proportions, extra captions or text overlays.

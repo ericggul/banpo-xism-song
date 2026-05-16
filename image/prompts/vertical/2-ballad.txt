@@ -1,0 +1,28 @@
+Album cover, 9:16 vertical, ~1080×1920 (YouTube Shorts / Reels / TikTok), illustrated / anime-adjacent style with painterly shading (no photoreal skin).
+
+COMPOSITION (identical to the reference cover for song 1 — keep girl, pose, props, skyline, and logotype consistent across the whole series):
+A young Korean woman in her early twenties with long dark hair stands on a high apartment balcony at night, body turned three-quarters to the right so her profile faces camera-left. She wears a small ornamental gold crown perched on her head. In her right hand she holds up a smartphone displaying a real-estate listing screen (apartment thumbnail visible). In her left hand she carries a luxury paper shopping bag (cream/beige with "LUXURY" lettering on the side). Behind her, the Banpo (반포) riverside apartment complex stretches across the Han river at night — dense rows of lit-up high-rise residential towers, the iconic rainbow-lit Banpo Bridge moonlight fountain spilling colored light across the water in mid-frame, the Lotte World Tower spire on the left horizon, distant Seoul skyline.
+
+LOCKED LOGOTYPE — bottom-right corner: the stylized 3D Korean wordmark "반포자이즘" rendered in thick chunky letterforms, glossy yellow-to-orange gradient fill with a bright cyan/teal outline and subtle glow. This must match the exact same logo style as cover 1 (treat as a fixed brand mark across the whole 21-cover series; never alter it regardless of tone).
+
+TONE — Ballad / alternative pop / baroque pop / dream pop / sadcore:
+- Palette: cool desaturated blues, muted lavenders, dusty grays, soft warm lamp accents — opposite of the synth-pop neon.
+- Lighting: hazy diffuse glow, soft warm balcony lamp brushing one side of her face, low contrast.
+- Atmosphere: light drizzle, faint fog rolling off the Han river, gentle bokeh from far city lights, a few raindrops beading on the balcony railing.
+- Expression: melancholic and contemplative, eyes slightly lowered, lips closed in a soft wistful expression; a single subtle tear gleam optional.
+- Extra: faint film grain, soft watercolor edges, pastel softness — like a 2010s indie sleeve (Lana Del Rey / Mitski / 한국 발라드 cover aesthetic).
+
+THIS TRACK (2) — Alternative Pop, Baroque Pop, Dream Pop, Sadcore, 2:45, 152 BPM, D major:
+- Outfit / styling: dusty plum cardigan, sleeves pulled over her hands.
+- Track-specific note: raindrops bead on the balcony railing; a single wet leaf stuck to the bag.
+
+AUDIO-DERIVED NOTES (use these to calibrate energy & mood — these are objective features pulled from the actual mp3):
+- Tempo: 152 BPM (fast / driving). Match the cover's implied movement to this — wind, particles, hair sway.
+- Key: D major (major). Push warmer / more triumphant palette accents.
+- Spectral centroid: 1953 Hz — dark / muffled spectrum. Lean dimmer, more shadow.
+- Onset rate: 2.84 events/sec — moderate attack density. Keep negative space; avoid busy particles.
+- Intro silence: 0.3s — almost no intro — straight into energy.
+
+The locked 반포자이즘 logotype in the bottom-right corner ALWAYS keeps its original vivid yellow-orange gradient and cyan/teal outline — never restyle it to match the tone. It should remain the consistent brand mark across all 21 covers, identical between horizontal and vertical variants.
+
+Avoid: harsh deviations from the locked composition, additional UI elements, watermarks, photoreal faces, exaggerated anime proportions, extra captions or text overlays.

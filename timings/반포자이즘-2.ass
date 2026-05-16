@@ -1,0 +1,45 @@
+[Script Info]
+Title: 반포자이즘 B급 Lyric
+ScriptType: v4.00+
+WrapStyle: 0
+ScaledBorderAndShadow: yes
+YCbCr Matrix: TV.709
+PlayResX: 1920
+PlayResY: 1080
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Lyric,    AppleSDGothicNeo-Bold, 88, &H0000F0FF, &H000000FF, &H00000000, &H80000000, -1, 0, 0, 0, 100, 100, 2, 0, 1, 6, 3, 2, 60, 60, 110, 1
+Style: LyricAlt, AppleSDGothicNeo-Bold, 92, &H00FFFFFF, &H000000FF, &H001020A0, &H80000000, -1, 0, 0, 0, 100, 100, 2, 0, 1, 7, 3, 2, 60, 60, 110, 1
+Style: Section,  AppleGothic,           54, &H00C0C0C0, &H000000FF, &H00000000, &H80000000, -1, 0, 0, 0, 100, 100, 4,  0, 1, 4, 2, 8, 80, 80, 60, 1
+Style: Karaoke,  AppleSDGothicNeo-Bold, 96, &H0000F0FF, &H0000A0FF, &H00000000, &H80000000, -1, 0, 0, 0, 100, 100, 3, 0, 1, 7, 4, 2, 60, 60, 110, 1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:00.00,0:00:05.08,Lyric,,0,0,0,,{\fad(80,120)}반포의 빛이 나를 부르네
+Dialogue: 0,0:00:06.36,0:00:11.38,Lyric,,0,0,0,,{\fad(80,120)}자이의 품에 안기고 싶어
+Dialogue: 0,0:00:12.46,0:00:17.56,Lyric,,0,0,0,,{\fad(80,120)}강남의 별들 아래 꿈꾸네
+Dialogue: 0,0:00:17.56,0:00:24.46,Lyric,,0,0,0,,{\fad(80,120)}높은 순위 속에 날 세우고 싶어
+Dialogue: 0,0:00:24.46,0:00:29.56,LyricAlt,,0,0,0,,{\fad(80,120)\bord7\3c&H1020A0&}반포야 반포야 너는 나의 별
+Dialogue: 0,0:00:31.38,0:00:35.36,LyricAlt,,0,0,0,,{\fad(80,120)\bord7\3c&H1020A0&}자이야 자이야 나를 안아줘
+Dialogue: 0,0:00:36.60,0:00:41.86,LyricAlt,,0,0,0,,{\fad(80,120)\bord7\3c&H1020A0&}상급지의 왕관 내가 쓸래
+Dialogue: 0,0:00:43.30,0:00:48.06,LyricAlt,,0,0,0,,{\fad(80,120)\bord7\3c&H1020A0&}학군지도 나를 반겨줄래
+Dialogue: 0,0:00:48.16,0:00:50.37,Section,,0,0,0,,{\fad(200,200)}[ Verse 2 ]
+Dialogue: 0,0:00:50.42,0:00:55.64,Lyric,,0,0,0,,{\fad(80,120)}강바람 속에 흩날리는 꿈
+Dialogue: 0,0:00:56.66,0:01:01.74,Lyric,,0,0,0,,{\fad(80,120)}부동산 지도 속 반짝이는 점
+Dialogue: 0,0:01:03.16,0:01:07.96,Lyric,,0,0,0,,{\fad(80,120)}하급지는 뒤로 상급지로 달려
+Dialogue: 0,0:01:08.84,0:01:14.02,Lyric,,0,0,0,,{\fad(80,120)}자이의 문턱 넘고 싶어
+Dialogue: 0,0:01:14.12,0:01:15.55,Section,,0,0,0,,{\fad(200,200)}[ Chorus ]
+Dialogue: 0,0:01:15.60,0:01:19.68,LyricAlt,,0,0,0,,{\fad(80,120)\bord7\3c&H1020A0&}반포야 반포야 너는 나의 별
+Dialogue: 0,0:01:22.18,0:01:25.74,LyricAlt,,0,0,0,,{\fad(80,120)\bord7\3c&H1020A0&}자이야 자이야 나를 안아줘
+Dialogue: 0,0:01:27.12,0:01:31.74,LyricAlt,,0,0,0,,{\fad(80,120)\bord7\3c&H1020A0&}상급지의 왕관 내가 쓸래
+Dialogue: 0,0:01:33.86,0:01:37.68,LyricAlt,,0,0,0,,{\fad(80,120)\bord7\3c&H1020A0&}학군지도 나를 반겨줄래
+Dialogue: 0,0:01:37.78,0:01:40.95,Section,,0,0,0,,{\fad(200,200)}[ Bridge ]
+Dialogue: 0,0:01:41.00,0:01:45.98,Lyric,,0,0,0,,{\fad(80,120)}순위의 숫자에 내 마음이 춤춰
+Dialogue: 0,0:01:45.98,0:01:51.56,Lyric,,0,0,0,,{\fad(80,120)}반포의 꿈이 나를 깨우네
+Dialogue: 0,0:01:53.38,0:01:57.80,Lyric,,0,0,0,,{\fad(80,120)}자이의 이름을 가슴에 새기며
+Dialogue: 0,0:01:58.68,0:02:05.48,Lyric,,0,0,0,,{\fad(80,120)}내 미래를 이곳에 맡기고 싶어
+Dialogue: 0,0:02:05.48,0:02:10.36,LyricAlt,,0,0,0,,{\fad(80,120)\bord7\3c&H1020A0&}반포야 반포야 너는 나의 별
+Dialogue: 0,0:02:12.44,0:02:16.40,LyricAlt,,0,0,0,,{\fad(80,120)\bord7\3c&H1020A0&}자이야 자이야 나를 안아줘
+Dialogue: 0,0:02:17.48,0:02:22.86,LyricAlt,,0,0,0,,{\fad(80,120)\bord7\3c&H1020A0&}상급지의 왕관 내가 쓸래
+Dialogue: 0,0:02:23.48,0:02:29.12,LyricAlt,,0,0,0,,{\fad(80,120)\bord7\3c&H1020A0&}학군지도 나를 반겨줄래

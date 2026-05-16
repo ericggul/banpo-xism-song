@@ -1,0 +1,28 @@
+Album cover, 9:16 vertical, ~1080×1920 (YouTube Shorts / Reels / TikTok), illustrated / anime-adjacent style with painterly shading (no photoreal skin).
+
+COMPOSITION (identical to the reference cover for song 1 — keep girl, pose, props, skyline, and logotype consistent across the whole series):
+A young Korean woman in her early twenties with long dark hair stands on a high apartment balcony at night, body turned three-quarters to the right so her profile faces camera-left. She wears a small ornamental gold crown perched on her head. In her right hand she holds up a smartphone displaying a real-estate listing screen (apartment thumbnail visible). In her left hand she carries a luxury paper shopping bag (cream/beige with "LUXURY" lettering on the side). Behind her, the Banpo (반포) riverside apartment complex stretches across the Han river at night — dense rows of lit-up high-rise residential towers, the iconic rainbow-lit Banpo Bridge moonlight fountain spilling colored light across the water in mid-frame, the Lotte World Tower spire on the left horizon, distant Seoul skyline.
+
+LOCKED LOGOTYPE — bottom-right corner: the stylized 3D Korean wordmark "반포자이즘" rendered in thick chunky letterforms, glossy yellow-to-orange gradient fill with a bright cyan/teal outline and subtle glow. This must match the exact same logo style as cover 1 (treat as a fixed brand mark across the whole 21-cover series; never alter it regardless of tone).
+
+TONE — 1930s jazz & blues — sepia speakeasy:
+- Palette: deep sepia + tarnished brass + smoky charcoal + warm amber.
+- Lighting: single hanging incandescent bulb above her, hard warm-yellow falloff, much of frame in deep shadow.
+- Atmosphere: thick blue-gray cigarette smoke curling through the frame, faint film projector flicker, dust motes in beam, vintage record-grain stippling overlay.
+- Expression: smoky-lidded gaze, lips painted dark red, head tilted into the light.
+- Extra: outfit reinterpreted as a 1930s silk slip-dress silhouette + long gloves under her cardigan, an art-deco frame border subtly visible at the canvas edges, treatment like a vintage RCA 78rpm sleeve.
+
+THIS TRACK (14) — 1930s Jazz & Blues, 2:35, 108 BPM, C# major:
+- Outfit / styling: silk slip-dress hint under cardigan, long opera gloves, dark red lip.
+- Track-specific note: art-deco gold border subtly evoked at the canvas edges; jazz lounge warmth; a vintage condenser microphone shadow implied off-frame.
+
+AUDIO-DERIVED NOTES (use these to calibrate energy & mood — these are objective features pulled from the actual mp3):
+- Tempo: 108 BPM (mid-tempo). Match the cover's implied movement to this — wind, particles, hair sway.
+- Key: C# major (major). Push warmer / more triumphant palette accents.
+- Spectral centroid: 2336 Hz — warm mid spectrum. Lean dimmer, more shadow.
+- Onset rate: 3.51 events/sec — busy attack density (lots of motion). Add scattered motion particles / streaks.
+- Intro silence: 0.2s — almost no intro — straight into energy.
+
+The locked 반포자이즘 logotype in the bottom-right corner ALWAYS keeps its original vivid yellow-orange gradient and cyan/teal outline — never restyle it to match the tone. It should remain the consistent brand mark across all 21 covers, identical between horizontal and vertical variants.
+
+Avoid: harsh deviations from the locked composition, additional UI elements, watermarks, photoreal faces, exaggerated anime proportions, extra captions or text overlays.

@@ -1,0 +1,28 @@
+Album cover, 9:16 vertical, ~1080×1920 (YouTube Shorts / Reels / TikTok), illustrated / anime-adjacent style with painterly shading (no photoreal skin).
+
+COMPOSITION (identical to the reference cover for song 1 — keep girl, pose, props, skyline, and logotype consistent across the whole series):
+A young Korean woman in her early twenties with long dark hair stands on a high apartment balcony at night, body turned three-quarters to the right so her profile faces camera-left. She wears a small ornamental gold crown perched on her head. In her right hand she holds up a smartphone displaying a real-estate listing screen (apartment thumbnail visible). In her left hand she carries a luxury paper shopping bag (cream/beige with "LUXURY" lettering on the side). Behind her, the Banpo (반포) riverside apartment complex stretches across the Han river at night — dense rows of lit-up high-rise residential towers, the iconic rainbow-lit Banpo Bridge moonlight fountain spilling colored light across the water in mid-frame, the Lotte World Tower spire on the left horizon, distant Seoul skyline.
+
+LOCKED LOGOTYPE — bottom-right corner: the stylized 3D Korean wordmark "반포자이즘" rendered in thick chunky letterforms, glossy yellow-to-orange gradient fill with a bright cyan/teal outline and subtle glow. This must match the exact same logo style as cover 1 (treat as a fixed brand mark across the whole 21-cover series; never alter it regardless of tone).
+
+TONE — 2025 house × electronic hip-hop hybrid — hyper-modern club:
+- Palette: chrome silver + acid magenta + obsidian black; cold blue night with red laser glints.
+- Lighting: punchy specular highlights, glossy plasticky shine, sharp shadow edges, occasional strobe-frozen blur.
+- Atmosphere: crowd silhouettes far below the balcony, low-flying drone lights, ribbon-like motion streaks frozen mid-air.
+- Expression: cocky head-tilt, half-smile, eyes narrowed slightly.
+- Extra: tiny crystalline particles suspended in air, faint vapor curling around her wrist, treated like a 2025 club-mix promo still.
+
+THIS TRACK (11) — 2025 House Electronic Hip Hop, 2:02, 123 BPM, E major:
+- Outfit / styling: burgundy leather jacket replaces the cardigan.
+- Track-specific note: DIFFERENT from cover 3 — push palette toward sunrise rooftop pool-party (warm orange + amber + soft pink) rather than club magenta; same hyper-modern energy but warmer hour, busiest onset density (4.1/sec) translates to scattered floating champagne droplets.
+
+AUDIO-DERIVED NOTES (use these to calibrate energy & mood — these are objective features pulled from the actual mp3):
+- Tempo: 123 BPM (uptempo). Match the cover's implied movement to this — wind, particles, hair sway.
+- Key: E major (major). Push warmer / more triumphant palette accents.
+- Spectral centroid: 2978 Hz — bright spectrum. Lean brighter highlights.
+- Onset rate: 4.11 events/sec — busy attack density (lots of motion). Add scattered motion particles / streaks.
+- Intro silence: 1.7s — modest intro.
+
+The locked 반포자이즘 logotype in the bottom-right corner ALWAYS keeps its original vivid yellow-orange gradient and cyan/teal outline — never restyle it to match the tone. It should remain the consistent brand mark across all 21 covers, identical between horizontal and vertical variants.
+
+Avoid: harsh deviations from the locked composition, additional UI elements, watermarks, photoreal faces, exaggerated anime proportions, extra captions or text overlays.

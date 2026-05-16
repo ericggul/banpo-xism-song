@@ -1,0 +1,28 @@
+Album cover, 16:9 horizontal, ~1920×1080, illustrated / anime-adjacent style with painterly shading (no photoreal skin).
+
+COMPOSITION (identical to the reference cover for song 1 — keep girl, pose, props, skyline, and logotype consistent across the whole series):
+A young Korean woman in her early twenties with long dark hair stands on a high apartment balcony at night, body turned three-quarters to the right so her profile faces camera-left. She wears a small ornamental gold crown perched on her head. In her right hand she holds up a smartphone displaying a real-estate listing screen (apartment thumbnail visible). In her left hand she carries a luxury paper shopping bag (cream/beige with "LUXURY" lettering on the side). Behind her, the Banpo (반포) riverside apartment complex stretches across the Han river at night — dense rows of lit-up high-rise residential towers, the iconic rainbow-lit Banpo Bridge moonlight fountain spilling colored light across the water in mid-frame, the Lotte World Tower spire on the left horizon, distant Seoul skyline.
+
+LOCKED LOGOTYPE — bottom-right corner: the stylized 3D Korean wordmark "반포자이즘" rendered in thick chunky letterforms, glossy yellow-to-orange gradient fill with a bright cyan/teal outline and subtle glow. This must match the exact same logo style as cover 1 (treat as a fixed brand mark across the whole 21-cover series; never alter it regardless of tone).
+
+TONE — Electropop × dark indie pop — gothic synth:
+- Palette: deep oxblood reds, ink-purples, near-black with violet highlights; warm candle gold accents.
+- Lighting: single low warm flame source casting long shadows up her face, hard contrast, much of the frame in deep shadow.
+- Atmosphere: smoke curling slowly, a half-melted candle on the railing, distant flicker of bare bulbs, no stars (clouded sky).
+- Expression: haunted, eyes wide and dilated, mouth set in a flat hard line — half-defiant, half-blank.
+- Extra: subtle film stain, smoke-edge fade on the corners, treatment like a 2017 dark-pop record sleeve.
+
+THIS TRACK (6) — Electropop, Dark Indie Pop, 2:29, 89 BPM, C minor:
+- Outfit / styling: near-black cardigan, a single tarnished silver locket at her throat.
+- Track-specific note: a half-melted black candle on the railing, smoke curling toward the bag handles.
+
+AUDIO-DERIVED NOTES (use these to calibrate energy & mood — these are objective features pulled from the actual mp3):
+- Tempo: 89 BPM (slow ballad pace). Match the cover's implied movement to this — wind, particles, hair sway.
+- Key: C minor (minor). Push cooler / more melancholy palette accents.
+- Spectral centroid: 2373 Hz — warm mid spectrum. Lean dimmer, more shadow.
+- Onset rate: 2.17 events/sec — sparse attack density (slow events). Keep negative space; avoid busy particles.
+- Intro silence: 0.2s — almost no intro — straight into energy.
+
+The locked 반포자이즘 logotype in the bottom-right corner ALWAYS keeps its original vivid yellow-orange gradient and cyan/teal outline — never restyle it to match the tone. It should remain the consistent brand mark across all 21 covers, identical between horizontal and vertical variants.
+
+Avoid: harsh deviations from the locked composition, additional UI elements, watermarks, photoreal faces, exaggerated anime proportions, extra captions or text overlays.

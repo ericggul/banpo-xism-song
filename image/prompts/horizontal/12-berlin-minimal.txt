@@ -1,0 +1,28 @@
+Album cover, 16:9 horizontal, ~1920×1080, illustrated / anime-adjacent style with painterly shading (no photoreal skin).
+
+COMPOSITION (identical to the reference cover for song 1 — keep girl, pose, props, skyline, and logotype consistent across the whole series):
+A young Korean woman in her early twenties with long dark hair stands on a high apartment balcony at night, body turned three-quarters to the right so her profile faces camera-left. She wears a small ornamental gold crown perched on her head. In her right hand she holds up a smartphone displaying a real-estate listing screen (apartment thumbnail visible). In her left hand she carries a luxury paper shopping bag (cream/beige with "LUXURY" lettering on the side). Behind her, the Banpo (반포) riverside apartment complex stretches across the Han river at night — dense rows of lit-up high-rise residential towers, the iconic rainbow-lit Banpo Bridge moonlight fountain spilling colored light across the water in mid-frame, the Lotte World Tower spire on the left horizon, distant Seoul skyline.
+
+LOCKED LOGOTYPE — bottom-right corner: the stylized 3D Korean wordmark "반포자이즘" rendered in thick chunky letterforms, glossy yellow-to-orange gradient fill with a bright cyan/teal outline and subtle glow. This must match the exact same logo style as cover 1 (treat as a fixed brand mark across the whole 21-cover series; never alter it regardless of tone).
+
+TONE — Berlin house × hardcore × minimal — industrial gray + single red:
+- Palette: concrete gray, raw steel, ink black, with one single saturated red light source.
+- Lighting: harsh red point-source from upper-left casting long sharp shadows, otherwise flat gray, no warm tones at all.
+- Atmosphere: thick haze of dry-ice fog at calf height, exposed pipes / rebar texture on nearby walls, water dripping somewhere, a single distant strobe burst frozen.
+- Expression: completely blank, eyes closed listening, body subtly leaning into the beat.
+- Extra: minimal techno asceticism — strip out warmth wherever possible; the only saturated color in the frame should be the red light, the rainbow bridge (subdued), and the locked 반포자이즘 logotype.
+
+THIS TRACK (12) — Berlin House, Hardcore, Minimal, 2:49, 123 BPM, C minor:
+- Outfit / styling: raw concrete-gray cardigan, no metallic accents anywhere.
+- Track-specific note: the busiest track of the album (4.6 onsets/sec) but rendered as relentless monochrome — only the red point-source, the subdued bridge, and the locked logotype carry color.
+
+AUDIO-DERIVED NOTES (use these to calibrate energy & mood — these are objective features pulled from the actual mp3):
+- Tempo: 123 BPM (uptempo). Match the cover's implied movement to this — wind, particles, hair sway.
+- Key: C minor (minor). Push cooler / more melancholy palette accents.
+- Spectral centroid: 2112 Hz — dark / muffled spectrum. Lean dimmer, more shadow.
+- Onset rate: 4.61 events/sec — very busy attack density (relentless motion). Add scattered motion particles / streaks.
+- Intro silence: 0.0s — almost no intro — straight into energy.
+
+The locked 반포자이즘 logotype in the bottom-right corner ALWAYS keeps its original vivid yellow-orange gradient and cyan/teal outline — never restyle it to match the tone. It should remain the consistent brand mark across all 21 covers, identical between horizontal and vertical variants.
+
+Avoid: harsh deviations from the locked composition, additional UI elements, watermarks, photoreal faces, exaggerated anime proportions, extra captions or text overlays.
